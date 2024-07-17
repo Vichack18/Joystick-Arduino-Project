@@ -1,0 +1,1 @@
+This is a Arduino Project in wich I worked with a Joystick of PS3/PS2. The idea of ​​this project was to operate different objects such as: LEDS, BUZZER, SERVO and a MOTOR with different buttons on the remote control.
